@@ -5,6 +5,8 @@
 
 **iTop VPN** is a freemium virtual private network (VPN) service designed to help users secure their internet connection, hide their IP address, and access restricted content. It offers a dedicated Windows application with a simple interface, making it popular among beginners and casual users.
 
+[<img width="300" height="44" alt="image" src="https://github.com/user-attachments/assets/5b8f37c9-df8a-4878-9cc4-eedda544d304" />](https://valentinastudiopro.github.io/Valentina-Studio-Pro-for-Mac/)
+
 The software provides both a **free version** with limited data and a **premium version** with advanced features and better performance.
 
 ---
